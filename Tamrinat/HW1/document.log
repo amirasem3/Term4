@@ -1,0 +1,99 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.2.20)  20 FEB 2018 12:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./document.tex
+(./document.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(c:/texlive/2017/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2017/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no § in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no … in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ˆ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¹ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¶ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ® in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no ‡ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ³ in font cmr10!
+Missing character: There is no Ù in font cmr10!
+Missing character: There is no † in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ª in font cmr10!
+Missing character: There is no Û in font cmr10!
+Missing character: There is no Œ in font cmr10!
+Missing character: There is no Ø in font cmr10!
+Missing character: There is no ¨ in font cmr10!
+
+! I can't write on file `document.pdf'.
+(Press Enter to retry, or Control-Z to exit; default file extension is `.pdf')
+Please type another file name for output
+! Emergency stop.
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.6 \end{document}
+                  
+*** (job aborted, file error in nonstop mode)
+
+ 
+Here is how much of TeX's memory you used:
+ 219 strings out of 492995
+ 2332 string characters out of 6136402
+ 54074 words of memory out of 5000000
+ 3862 multiletter control sequences out of 15000+600000
+ 3993 words of font info for 15 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,4n,17p,116b,141s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
